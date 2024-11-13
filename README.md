@@ -1,4 +1,4 @@
-##Introduction
+## Introduction
 **This project involves building a machine learning model to predict hotel booking cancellations based on various features using the Hotel Booking Cancellation dataset. The goal is to create a Flask web application to deploy the model and allow users to input relevant data for prediction.**
 ##Project Structure
 ######app.py: Flask application script containing API endpoints and model deployment logic.
